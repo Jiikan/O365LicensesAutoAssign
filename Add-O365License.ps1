@@ -1,3 +1,6 @@
+##Install the Microsoft Online Module
+Install-Module MSOnline
+
 ##Connect to Microsoft Online Services
 Connect-MsolService
 
